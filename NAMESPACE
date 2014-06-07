@@ -1,0 +1,2 @@
+import(BiocGenerics)
+export(RGSEAsd, RGSEApredict,RGSEAfix) 
