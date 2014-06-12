@@ -1,11 +1,11 @@
 Package: RGSEA
 Type: Package
 Title: Random Gene Set Enrichment Analysis
-Version: 0.99.11
+Version: 0.99.12
 Date: 2014-04-22
 Author: Chengcheng Ma
 biocViews: GeneSetEnrichment, StatisticalMethod, Classification
-Maintainer: Chengcheng Ma <tcmcc1986@gmail.com>
+Maintainer: Chengcheng Ma <ccma@sibs.ac.cn>
 Description: Combining bootstrap aggregating and Gene set enrichment
         analysis (GSEA), RGSEA is a classfication algorithm with high
         robustness and no over-fitting problem. It performs well
